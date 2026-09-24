@@ -1,0 +1,13 @@
+streamlit
+langgraph
+langchain
+langchain-openai
+openai
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+pytest
+pytest-cov
+httpx
