@@ -4,8 +4,8 @@ services:
       context: ./backend
     env_file:
       - ./backend/.env
-    ports:
-      - "8001:8001"
+    expose:
+      - "8001"
 
   frontend:
     build:
